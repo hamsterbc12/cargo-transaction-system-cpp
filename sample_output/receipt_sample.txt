@@ -1,0 +1,116 @@
+****East County Cargo Transport****
+
+Cashiering system 2.0
+Starting Transactions - date - 05/28/2022
+
+
+Starting at Transaction #1
+
+Enter Customer's name: Jerry Lewis
+
+Customer - Jerry Lewis
+
+Enter dimensions for container #1 (in feet):
+Height: 3
+
+Length: 4
+
+Width: 2
+
+Volume of container #1 is 24 cu ft
+Medium Package ($2.50 per cu ft):  $60.00
+
+How is this container to be shipped:
+
+(1) Standard - (one to two weeks) - No change to the price
+(2) Fast Ground - (3 to 5 business days) - Extra $1.50 per cubic foot
+(3) Air - (1 to 2 business days) - Only applies to packages under 30 cubic feet - Extra $3.00 per cubic foot
+
+Delivery: 2
+
+Fast Ground ($1.50 per cu ft):  $36.00
+
+Another container (y/n): y
+
+Enter dimensions for container #2 (in feet):
+Height: 9
+
+Length: 2
+
+Width:  3
+
+Volume of container #2 is 54 cu ft
+Large Package ($3.00 per cu ft):  $162.00
+
+How is this container to be shipped:
+
+(1) Standard - (one to two weeks) - No change to the price
+(2) Fast Ground - (3 to 5 business days) - Extra $1.50 per cubic foot
+
+Delivery: 1
+
+Standard:  $0.00
+
+Another container (y/n): y
+
+Enter dimensions for container #3 (in feet):
+Height: 1
+
+Length: 2
+
+Width:  4
+
+Volume of container #3 is 8 cu ft
+Small Package ($1.50 per cu ft):  $12.00
+
+How is this container to be shipped:
+
+(1) Standard - (one to two weeks) - No change to the price
+(2) Fast Ground - (3 to 5 business days) - Extra $1.50 per cubic foot
+(3) Air - (1 to 2 business days) - Only applies to packages under 30 cubic feet - Extra $3.00 per cubic foot
+
+Delivery: 3
+
+Air ($3.00 per cu ft):  $24.00
+
+Another container (y/n): n
+
+
+
+Subtotal                                                   $   294.00
+Sales Tax - 7.75%                                          $    22.79
+
+Total                                                      $   316.79
+
+Payment (1. Cash, 2. Check, 3. Credit): 1
+
+Accepted:                                                  $   320.00
+Change:                                                    $     3.21
+
+
+________________________________________________________________________
+
+East County Cargo Transport
+
+123 First Street
+El Cajon, CA  92071
+
+Customer Receipt - 05/28/2022
+
+Customer Name: Jerry Lewis
+
+Container #1 - 24.00 cu ft                                 $    60.00
+Shipping: FG - Est. Delivery - 06/02/2022                  $    36.00
+
+Container #2 - 54.00 cu ft                                 $   162.00
+Shipping: STD - Est. Delivery - 06/11/2022                 $     0.00
+
+Container #3 - 8.00 cu ft                                  $    12.00
+Shipping: AIR - Est. Delivery - 05/30/2022                 $    24.00
+
+Subtotal                                                   $   294.00
+Sales Tax - 7.75%                                          $    22.79
+
+Total                                                      $   316.79
+
+*/
